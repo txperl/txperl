@@ -10,6 +10,7 @@ I'm **Trii Hsia**, full-stack software developer.
 
 ### How to Reach Me
 
+- Blog: [Yumoe](https://yumoe.com/)
 - X / Twitter: [@txperl](https://x.com/txperl)
 - 📮 Email: [Follow Up Here](mailto:txperl@gmail.com)
 
