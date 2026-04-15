@@ -18,8 +18,10 @@ I'm **Trii Hsia**, full-stack software developer.
 
 Here is a navigation for other projects I created:
 
-| Project                                                                      | Description                                        |
-| ---------------------------------------------------------------------------- | -------------------------------------------------- |
-| **[JustList](https://github.com/txperl/JustList)**                           | A tool for sharing cloud drive files.              |
-| **[Story-for-Typecho](https://github.com/txperl/Story-for-Typecho)**         | A Typecho theme designed like an album for memory. |
-| **[Moricolor-for-Typecho](https://github.com/txperl/Moricolor-for-Typecho)** | A Typecho theme with feelings of forest.           |
+| Project                                                                             | Description                                                              |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **[EasyCommit](https://github.com/txperl/easycommit)** (2026)                       | A TUI tool for generating AI-powered git commit messages.                |
+| **[SnipFly](https://github.com/txperl/snipfly)** (2026)                             | A TUI tool for running multiple code snippets, in a single terminal tab. |
+| **[JustList](https://github.com/txperl/JustList)** (2022)                           | A tool for sharing cloud drive files.                                    |
+| **[Story-for-Typecho](https://github.com/txperl/Story-for-Typecho)** (2018)         | A Typecho theme designed like an album for memory.                       |
+| **[Moricolor-for-Typecho](https://github.com/txperl/Moricolor-for-Typecho)** (2017) | A Typecho theme with feelings of forest.                                 |
